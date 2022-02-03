@@ -1,4 +1,5 @@
-# You can type something out by making a print statment which will then be shown in the terminal
+# You can type something out by making a print statment
+# Things written in a print statment can be shown in the terminal
 print("   /|")
 print("  / |")
 print(" /  |")
